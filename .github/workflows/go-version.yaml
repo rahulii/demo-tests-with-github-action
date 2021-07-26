@@ -1,0 +1,12 @@
+name: Golang version
+
+on: [push]
+
+jobs:
+  check-golang-version:
+
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-go@v2
+      - run: go version
