@@ -1,4 +1,4 @@
 # demo-tests-with-github-action
 This Repo is a demo of Github Actions 
 
-Solution for Udacity course
+Solution for Udacity course - CNCF fundamentals
