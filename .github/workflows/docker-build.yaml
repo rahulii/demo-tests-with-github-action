@@ -33,4 +33,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: rahulsawra/python-app:latest
+          tags: rahulsawra/python-app:v1.0.1
